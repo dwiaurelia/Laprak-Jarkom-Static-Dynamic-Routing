@@ -36,5 +36,3 @@ konfigurasi default route
 ![image](https://github.com/dwiaurelia/Laprak-Jarkom-Static-Dynamic-Routing/assets/126183346/6295c172-a469-49e5-9396-91c8094cbd34)
 **ROUTER_III**
 ![image](https://github.com/dwiaurelia/Laprak-Jarkom-Static-Dynamic-Routing/assets/126183346/a930c70d-5dac-44a8-9a03-1aa972bee958)
-
-file cisko
